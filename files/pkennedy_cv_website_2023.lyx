@@ -148,23 +148,6 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2023-24 
-\series bold
-National Bureau of Economic Research
-\series default
- 
-\noun default
-
-\begin_inset Newline newline
-\end_inset
-
-Postdoctoral Fellow in Long-Term Fiscal Policy, Cambridge MA
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\noun on
 2024- 
 \series bold
 University of California at Los Angeles
@@ -182,9 +165,9 @@ Department of Economics, Assistant Professor (July 2024 start)
 \labelwidthstring 00.00.0000
 
 \noun on
-2020- 
+2023- 
 \series bold
-Joint Committee on Taxation
+National Bureau of Economic Research
 \series default
  
 \noun default
@@ -192,7 +175,11 @@ Joint Committee on Taxation
 \begin_inset Newline newline
 \end_inset
 
-Research Economist, Washington DC
+Faculty Research Fellow (2024-)
+\begin_inset Newline newline
+\end_inset
+
+Postdoctoral Fellow in Long-Term Fiscal Policy (2023-24)
 \end_layout
 
 \begin_layout Standard
@@ -243,7 +230,7 @@ University of California at Berkeley
 \begin_inset Newline newline
 \end_inset
 
-PhD in Economics
+PhD in Economics; Best Dissertation in Public Economics
 \end_layout
 
 \begin_layout Labeling
@@ -262,7 +249,7 @@ Stanford University
 \begin_inset Newline newline
 \end_inset
 
-BA in Political Science
+BA in Political Science; Deans Top 10 List 
 \begin_inset VSpace 5pt
 \end_inset
 
@@ -299,7 +286,7 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-forth 
+2024 
 \begin_inset Quotes eld
 \end_inset
 
@@ -312,8 +299,6 @@ The US-China Trade War and Global Reallocations
 \shape italic
 American Economic Review: Insights.
  
-\shape default
-Accepted.
 \end_layout
 
 \begin_layout Labeling
@@ -528,7 +513,7 @@ Protectionism and Profit: Worker- and Firm-Level Evidence
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -0.2in
+\begin_inset Newpage newpage
 \end_inset
 
 
@@ -669,8 +654,9 @@ height "1pt"
 \labelwidthstring 00.00.0000
 Journals: 
 \shape italic
-American Economic Review; Quarterly Journal of Economics; Econometrica;
- Review of Economics and Statistics; Journal of International Economics;
+American Economic Review; Quarterly Journal of Economics; Journal of Political
+ Economy; Econometrica; Review of Economics and Statistics; Journal of Public
+ Economics; Journal of International Economics; Journal of Urban Economics;
  World Bank Economic Review
 \end_layout
 
@@ -778,6 +764,16 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+2024 Stanford University, Department of Economics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 Columbia University Tax Policy Conference
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
 2023 Massachusetts Institute of Technology, Department of Economics 
 \end_layout
 
@@ -809,18 +805,6 @@ height "1pt"
 \begin_layout Labeling
 \labelwidthstring MMMMM
 2023 Columbia University School of Business, Economics Division
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2023 Columbia University School of Business, Department of Economic and
- Finance
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2023 University of Chicago, Booth School of Business, Department of Microeconomi
-cs
 \end_layout
 
 \begin_layout Labeling
