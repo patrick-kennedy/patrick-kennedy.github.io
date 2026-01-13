@@ -1,0 +1,1219 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\raggedright
+\usepackage{mathpazo}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 1in
+\rightmargin 0.75in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+\noun on
+Patrick Kennedy
+\series default
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+patkennedy@ucla.edu
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 5bp
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Appointments and Affiliations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2024- 
+\series bold
+University of California, Los Angeles
+\series default
+ 
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Department of Economics, Assistant Professor (2024-)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2023- 
+\series bold
+National Bureau of Economic Research
+\series default
+ 
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+Faculty Research Fellow (2024-)
+\begin_inset Newline newline
+\end_inset
+
+Postdoctoral Fellow in Long-Term Fiscal Policy (2023-24)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 5bp
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2023 
+\series bold
+University of California, Berkeley
+\series default
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+PhD in Economics; Best Dissertation in Public Economics
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2013 
+\series bold
+Stanford University
+\series default
+\emph on
+\noun default
+ 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+BA in Political Science; Dean's Top 10 List 
+\begin_inset VSpace 5pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Peer Reviewed Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+The TCJA and Domestic Corporate Tax Rates
+\begin_inset Quotes erd
+\end_inset
+
+ with Christine Dobridge, Paul Landefeld, and Jacob Mortenson.
+
+\shape italic
+ National Tax Journal.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 
+\begin_inset Quotes eld
+\end_inset
+
+The US-China Trade War and Global Reallocations
+\begin_inset Quotes erd
+\end_inset
+
+ with Pablo Fagjelbaum, Penelopi Goldberg, Amit Khandelwal, and Daria Taglioni.
+ 
+\shape italic
+American Economic Review: Insights.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+The Return to Protectionism
+\begin_inset Quotes erd
+\end_inset
+
+ with Pablo Fagjelbaum, Penelopi Goldberg, and Amit Khandelwal.
+ 
+\shape italic
+Quarterly Journal of Economics
+\shape default
+.
+ Lead article and Editors' Choice.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 
+\begin_inset Quotes eld
+\end_inset
+
+Where Do People Get Their News?
+\begin_inset Quotes erd
+\end_inset
+
+ with Andrea Prat.
+ 
+\shape italic
+Economic Policy.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 5pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Working Papers and Works in Progress
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+ and Works in Progress
+\end_layout
+
+\end_inset
+
+
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+Corporate Tax Cuts, Firm Growth, and Workers' Earnings
+\begin_inset Quotes erd
+\end_inset
+
+ with Christine Dobridge, Paul Landefeld, and Jacob Mortenson.
+ Revised and resubmitted, 
+\shape italic
+American Economic Review
+\shape default
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+Real Capital Flows and the Global Tax Race
+\begin_inset Quotes erd
+\end_inset
+
+ with Tim Dowd, Paul Landefeld, and Jacob Mortenson.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit
+\begin_inset Quotes erd
+\end_inset
+
+ with Benny Kleinman and Mathilde Muñoz.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset Quotes eld
+\end_inset
+
+High-End Housing and Gentrification: Evidence from a San Francisco Lottery
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+with Harrison Wheeler.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022 
+\begin_inset Quotes eld
+\end_inset
+
+Neighborhood-Level Investment from the U.S.
+ Opportunity Zone Program
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+with Harrison Wheeler.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Non-Peer Reviewed Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+Heterogeneity in Corporate Tax Incidence by Worker Characteristics
+\begin_inset Quotes erd
+\end_inset
+
+ with Christine Dobridge, Paul Landefeld, and Jacob Mortenson.
+
+\shape italic
+ AEA Papers and Proceedings.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Policy Experience 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020- 
+\series bold
+\noun on
+joint committee on taxation
+\series default
+\noun default
+, Washington, DC
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Research to inform tax policy, conducted on behalf of the United States
+ Congress
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018–19 
+\series bold
+\noun on
+california policy lab
+\series default
+\noun default
+, Univerity of California, Berkeley, CA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Research partnerships with administrative agencies to understand and improve
+ tax policy, education access, and labor market outcomes in the state of
+ California
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013–15 
+\series bold
+\noun on
+federal reserve board
+\series default
+\noun default
+, Division of International Finance, Washington, DC
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+International capital flows research using security-level Treasury International
+ Capital (TIC) data.
+ Academic research and regular policy briefings for the FOMC
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 
+\series bold
+\noun on
+department of the treasury
+\series default
+\noun default
+, Financial Stability Oversight Council, Washington, DC
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Financial Stability Oversight Council Annual Report.
+ (2015).
+ Jointly published by the Treasury, Federal Reserve, and other agencies
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Discussions
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 
+\begin_inset Quotes eld
+\end_inset
+
+CBO Tariff Model
+\begin_inset Quotes erd
+\end_inset
+
+ by the Congressional Budget Office 
+\begin_inset Newline newline
+\end_inset
+
+SIEPR Workshop on Budget Analysis and Public Policy, Stanford
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 
+\begin_inset Quotes eld
+\end_inset
+
+Tax Policy and the Global Economy
+\begin_inset Quotes erd
+\end_inset
+
+ by Chodorow-Reich, Smith, Zwick, and Zidar 
+\begin_inset Newline newline
+\end_inset
+
+National Tax Association Meetings, Detroit
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 
+\begin_inset Quotes eld
+\end_inset
+
+Manufacturing Investment and Employee Earnings
+\begin_inset Quotes erd
+\end_inset
+
+ by Moon and Duan 
+\begin_inset Newline newline
+\end_inset
+
+National Tax Association Meetings, Detroit
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 
+\begin_inset Quotes eld
+\end_inset
+
+Unintended Environmental Consequences of Investment Stimulus Policy
+\begin_inset Quotes erd
+\end_inset
+
+ by Anderson, Curtis, and Orhn.
+ Columbia Tax Workshop, New York 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2020 
+\begin_inset Quotes eld
+\end_inset
+
+Protectionism and Profit: Worker- and Firm-Level Evidence
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset VSpace 12pt
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Fellowships and Research Grants
+\series default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 UC Berkeley Center for Equitable Growth 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 Burch Center for Tax Policy and Public Finance 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 UC Berkeley Opportunity Lab Fellowship, Inequality and Place Initiative
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2017 National Science Foundation Graduate Research Fellowhip
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2017 Berkeley Regents Fellowship 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 Presidential Fellow, Center for the Study of the Presidency and Congress
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2012 Stanford University Major Grant Award 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Conference and Seminar Presentations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2025 UC Santa Barbara, Department of Economics, Santa Barbara, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 National Tax Association Meetings, Detroit, MI
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 NBER Trans-Atlantic Public Economics Symposium, Helsinki, Finland
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 Stanford University, Department of Economics, Stanford, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2024 Columbia University Tax Policy Conference, New York, NY
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 Massachusetts Institute of Technology, Department of Economics, Cambridge,
+ MA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 National Tax Association Meetings, Denver, CO
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 Univerity of Michigan, Department of Economics, Ann Arbor, MI
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 6th Annual Applied Microeconomics Conference, Rome, Italy
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 UCLA, Department of Economics, Los Angeles, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 Yale University, Department of Economics, New Haven, CT
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 Columbia University School of Business, Economics Division, New York,
+ NY
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 University of Chicago, Booth School of Business, Department of Economics,
+ Chicago, IL
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 Northwestern University, Department of Economics, Evanston, IL
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022 NBER Business Tax Conference at Stanford University, Stanford, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 NBER International Trade and Investment Autumn Meetings (virtual)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 European Economic Association Summer Meetings, Rotterdam, Netherlands
+ (virtual)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 NBER International Trade and Investment Spring Meetings (virtual)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 Berkeley Opportunity Lab, Berkeley, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2020 American Economic Association, San Diego, CA 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 West Coast Trade Workshop, San Diego, CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 NBER International Trade and Investment Winter Meetings, Stanford,
+ CA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 NBER Summer Institute, International Trade and Investment, Cambridge,
+ MA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 67th Annual Economic Policy Panel, Zurich, Switzerland
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 Federal Reserve Board, Washington, D.C.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Honors and Awards
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2023 Prize for Best PhD Dissertation in Public Finance (UC Berkeley)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 Opportunity Lab Fellowship, Inequality and Place Initiative (UC Berkeley)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 Regents Fellowship (UC Berkeley)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017 National Science Foundation Graduate Research Fellowship (NSF)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 Dean's Award for Academic Excellence (Stanford)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 J.E.
+ Wallace Sterling Scholastic Award (Stanford)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 Distinguished Honors, for outstanding thesis research (Stanford)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013 Donald B.
+ Marron Prize, for Best Historical Analysis of the Presidency (Center for
+ the Study of the Presidency and Congress)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012 Phi Beta Kappa (Stanford)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011 Andrea Lunsford Award for Excellence in Original Research and Oral
+ Communication (Stanford)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010 Lindsay Peters Jr.
+ Memorial Prize for Most Outstanding Student in American Government and
+ Politics (Stanford)
+\end_layout
+
+\end_body
+\end_document
